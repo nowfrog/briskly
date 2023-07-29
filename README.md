@@ -82,11 +82,11 @@ It is the first <i>real</i> shortcut I made with this app, and so it was more of
 </table>
 
 <h2>Checklist</h2>
- - [ ] Fix "back" menu redundancy
- - [ ] Merge shortcuts into one
- - [ ] Add page-specific rules for HTML formatting
-	 - [ ] Wikipedia
-	 - [ ] other most common websites...
+ [ ] Fix "back" menu redundancy<br>
+ [ ] Merge shortcuts into one<br>
+ [ ] Add page-specific rules for HTML formatting <br> 
+ - [ ] Wikipedia <br>
+ - [ ] other most common websites... <br>
   - more to come while I test the shortcut...
 
 ## Comments
