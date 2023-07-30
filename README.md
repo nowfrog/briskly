@@ -14,6 +14,18 @@ It is the first <i>real</i> shortcut I made with this app, and so it was more of
 </ul>
 
 ## Install guide
+<p>To use all features of Briskly, you need to install alll the following shortcuts (will work on merging into one):
+  <ul>
+    <li>Main Brinskly shortcut: <a href="https://www.icloud.com/shortcuts/ec14e3f0ada446efa8ba6bf9c322852e">Link</a></li>
+    <li>First Briskly copy to navigate menu: <a href="https://www.icloud.com/shortcuts/82f916c4ade54761b9b8fbcc91d1a295">Link</a></li>
+    <li>Second Briskly copy to navigate menu: <a href="https://www.icloud.com/shortcuts/93001e600c3545bb8bdcafae4cb0d42f">Link</a></li>
+    <li>Third Briskly copy to navigate menu: <a href="https://www.icloud.com/shortcuts/1635f463f6ad413fa024d8eefedbed32">Link</a></li>
+    <li>Shortcut to open online urls through Briskly: <a href="https://www.icloud.com/shortcuts/f09495a3ae6d4160b108199ee5b68243">Link</a></li>
+    <li>Add to Briskly (share menu shortcut): <a href="https://www.icloud.com/shortcuts/7566ba3e3557445287e888252b8963af">Link</a></li>
+    <li>Search links in Briskly folder shortcut: <a href="https://www.icloud.com/shortcuts/864c5708acd3489586bff02b7cc5bd66">Link</a></li>
+    <li>Show all links shortcut: <a href="https://www.icloud.com/shortcuts/0f46705169b0467a91da1eab893036c9">Link</a></li>
+    <li>Bul delete from Briskly shortcut: <a href="https://www.icloud.com/shortcuts/374ddc3c9ca1460b918f496452fc2cc7">Link</a></li>
+  </ul>
 
 <h2>Screenshots</h2>
 <table>
