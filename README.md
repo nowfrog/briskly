@@ -100,7 +100,6 @@ It is the first <i>real</i> shortcut I made with this app, and so it was more of
  [_] Add page-specific rules for HTML formatting <br> 
  -  [_] Wikipedia <br>
  -  [_] other most common websites... <br>
-  - more to come while I test the shortcut...
 
 ## Comments
 <ul>
